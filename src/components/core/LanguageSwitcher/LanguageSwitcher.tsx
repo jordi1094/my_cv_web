@@ -7,9 +7,9 @@ const LanguageSwitcher : React.FC = () => {
     }
 
     return (
-        <div className='h-2 w-2'>
-            <button onClick={() => changeLanguage('es')} className="text-center text-xs">Español</button>
-            <button onClick={() => {changeLanguage('en')}} className="text-center text-xs">English</button>
+        <div className='flex space-x-1 ml-2'>
+            <button onClick={() => changeLanguage('es')} className="languageBtn">Español</button>
+            <button onClick={() => {changeLanguage('en')}} className="languageBtn">English</button>
         </div>
     )
 }

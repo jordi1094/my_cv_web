@@ -2,3 +2,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+  
+@layer components {
+    .header {
+        @apply h-20 w-full pt-2  border-b-2 border-[#B68E76] grid grid-cols-10 items-center
+    };
+    .languageBtn {
+       @apply text-center text-xs px-2 py-1 border-gray-300 rounded-md bg-bgBlue h-fit 
+    };
+    .background{
+        @apply h-screen w-screen bg-bgOrange
+    };
+    .textWithAction {
+        @apply mt-16 text-linkColor visited:text-openLinkColor
+    }
+}
+
