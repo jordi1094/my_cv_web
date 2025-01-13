@@ -1,6 +1,11 @@
 {
-    "aboutMeTitle": "Primero de todo,",
-    "aboutMeSubtitle": "déjame presentarme.",
-    "aboutMeDescription": "Me Llamo Jordi Isern, Enfocado en convertir la tecnología y la creatividad en mi carrera profesional. \n\nMi objetivo como desarrollador web es continuar aprendiendo y creciendo, en un entorno donde poder aplicar, también, mis habilidades y mi experiencia en fotografía y retoque fotográfico, para crear interfaces de usuario atractivas y funcionales.\n\nEn mi día a día laboral, estoy acostumbrado a colaborar en entornos multiculturales, comunicándome en inglés con equipos de diferentes países europeos.",
-    "myProjectsTitle": "Mis proyectos"
+    "headerHome": "Home",
+    "headerAboutMe": "Sobre mi",
+    "headerProjects": "Proyectos",
+    "headerCV": "Experiencia y estudios",
+    "headerContact": "Contacto",
+    "aboutMeTitle": "Me Llamo Jordi Isern,\n  y estoy enfocado en convertir la tecnología y la creatividad en mi carrera profesional.",
+    "aboutMeDescription": "Mi objetivo como desarrollador web es continuar aprendiendo y creciendo, en un entorno donde poder aplicar, también, mis habilidades y mi experiencia en fotografía y retoque fotográfico, para crear interfaces de usuario atractivas y funcionales.\n\nEn mi día a día laboral, estoy acostumbrado a colaborar en entornos multiculturales, comunicándome en inglés con equipos de diferentes países europeos.",
+    "masterToolsDescription": 
+    
 }

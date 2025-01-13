@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        bgOrange: '#F5E5DC',
+        aboutMeBgDark: '#b8c2a7',
         bgBlue: '#C3D9D9',
         borderColor: '#B68E76',
         textColor: '#125050',
@@ -14,7 +14,7 @@ module.exports = {
         openLinkColor: '#B68E76'
       },
       fontFamily:{
-        ojuju : ['Ojuju']
+        roboto: ['Roboto']
       }
     },
   },
