@@ -7,11 +7,12 @@ module.exports = {
     extend: {
       colors: {
         aboutMeBgDark: '#b8c2a7',
-        bgBlue: '#C3D9D9',
+        bgButton: '#B8C2A7',
         borderColor: '#B68E76',
         textColor: '#125050',
         linkColor: '#4B8483',
-        openLinkColor: '#B68E76'
+        openLinkColor: '#B68E76',
+        bgDark: '#5D6D42'
       },
       fontFamily:{
         roboto: ['Roboto']
