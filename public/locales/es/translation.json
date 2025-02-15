@@ -11,5 +11,11 @@
     "irrigationAlert": "Alerta Riego",
     "irrigationAlertDescription": "Aplicación que envía notificaciones diarias por correo electrónico indicando qué plantas necesitan ser regadas, basada en datos obtenidos de sensores de humedad. Este proyecto, desarrollado como mi primera iniciativa personal, utiliza una Raspberry Pi conectada a sensores LM393 para medir la humedad del suelo en tiempo real. La lógica de la aplicación está implementada en JavaScript con Node.js, y se emplea Nodemailer para gestionar el envío de correos electrónicos.",
     "homeClimateBot": "HomeClimateBot",
-    "homeClimateBotDescription": "Esta aplicación, desarrollada para una Raspberry Pi, utiliza un sensor de humedad y temperatura DHT-22 para monitorear las condiciones del ambiente en tiempo real. Junto con un bot de Telegram, el sistema envía notificaciones cuando la temperatura de la vivienda supera un umbral establecido. Además, permite consultar la temperatura y la humedad de la vivienda en cualquier momento, simplemente enviando un mensaje al bot en Telegram. Este proyecto facilita el monitoreo remoto de las condiciones del hogar desde cualquier lugar."
+    "homeClimateBotDescription": "Esta aplicación, desarrollada para una Raspberry Pi, utiliza un sensor de humedad y temperatura DHT-22 para monitorear las condiciones del ambiente en tiempo real. Junto con un bot de Telegram, el sistema envía notificaciones cuando la temperatura de la vivienda supera un umbral establecido. Además, permite consultar la temperatura y la humedad de la vivienda en cualquier momento, simplemente enviando un mensaje al bot en Telegram. Este proyecto facilita el monitoreo remoto de las condiciones del hogar desde cualquier lugar.",
+    "EstudiesTittle": "Estudios",
+    "AdvancedAdvertisingRetouchingCourse": "Curso de Retoque Publicitario Avanzado",
+    "SpecializationCourseInFashionPhotography": "Curso de Especialización en Fotografía de Moda",
+    "HardSkillsTittle": "Habilidades Técnicas",
+    "ProgramingLanguagesTittle": "Lenguajes",
+    "HardSkillsOtherTittle": "Otras"
 }

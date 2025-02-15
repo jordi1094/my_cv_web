@@ -2,8 +2,11 @@ import React from "react";
 import Header from "../../components/core/Header"
 import AboutMe from "../../components/Library/AboutMe"
 import MasterTools from "../../components/Library/projects/MasterTools";
-import IrrigationAlert from "../../components/Library/projects/IrrigationAlert"
+import IrrigationAlert from "../../components/Library/projects/IrrigationAlert";
 import HomeClimateBot from "../../components/Library/projects/HomeClimateBot";
+import HardSkills from "../../components/Library/HardSkills";
+import ExpirienceAndStudies from "../../components/Library/ExpirienceAndStudies";
+
 
 const Home: React.FC = () => {
     return (
@@ -15,6 +18,8 @@ const Home: React.FC = () => {
             <MasterTools/>
             <IrrigationAlert/>
             <HomeClimateBot/>
+            <HardSkills/>
+            <ExpirienceAndStudies/>
         </main>
         </div>
     )
