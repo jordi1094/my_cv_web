@@ -10,7 +10,7 @@ const HardSkills: React.FC = () => {
   const backEnd: string[] = ["Node.js", "Express", "Php", "MongoDB", "MySQL"];
   const others: string[] = ["git", "mocha", "C8", "PHPUnit"];
   return (
-    <div className="col-span-1 rounded-lg bg-gradient-to-r from-slate-100 to-aboutMeBgDark px-7 py-4 font-roboto">
+    <div className="col-span-1 rounded-lg bg-gradient-to-tr from-bgClear to-bgDarkGradient px-7 py-4 font-roboto">
       <h3 className="border-b-2 border-black text-2xl font-bold">
         {t("HardSkillsTittle")}
       </h3>

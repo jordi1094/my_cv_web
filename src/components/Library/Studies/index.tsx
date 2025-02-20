@@ -2,10 +2,11 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import "../../../i18n";
 
-const ExpirienceAndStudies: React.FC = () => {
+const Studies: React.FC = () => {
   const { t } = useTranslation();
+  
   return (
-    <div className=" bg-gradient-to-l from-slate-100 to bg-aboutMeBgDark col-span-2 rounded-lg px-7 py-4 font-roboto">
+    <div className=" bg-gradient-to-tl from-bgClear to-bgDarkGradient col-span-2 rounded-lg px-7 py-4 font-roboto">
       <h3 className="mb-3 border-b-2 border-b-black text-2xl font-bold">
         {t("EstudiesTittle")}
       </h3>
@@ -29,4 +30,4 @@ const ExpirienceAndStudies: React.FC = () => {
   );
 };
 
-export default ExpirienceAndStudies;
+export default Studies;

@@ -4,8 +4,9 @@ import AboutMe from "../../components/Library/AboutMe"
 import MasterTools from "../../components/Library/projects/MasterTools";
 import IrrigationAlert from "../../components/Library/projects/IrrigationAlert";
 import HomeClimateBot from "../../components/Library/projects/HomeClimateBot";
+import Expirience from "../../components/Library/Expirience";
 import HardSkills from "../../components/Library/HardSkills";
-import ExpirienceAndStudies from "../../components/Library/ExpirienceAndStudies";
+import Studies from "../../components/Library/Studies";
 
 
 const Home: React.FC = () => {
@@ -18,8 +19,9 @@ const Home: React.FC = () => {
             <MasterTools/>
             <IrrigationAlert/>
             <HomeClimateBot/>
+            <Expirience/>
             <HardSkills/>
-            <ExpirienceAndStudies/>
+            <Studies/>
         </main>
         </div>
     )

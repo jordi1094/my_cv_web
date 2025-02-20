@@ -6,7 +6,7 @@ const MasterTools: React.FC = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="flex flex-col rounded-lg bg-bgDark px-7 py-4 font-roboto text-white">
+    <div id="projects" className="flex flex-col rounded-lg bg-bgDark px-7 py-4 font-roboto text-white">
       <h3 className="font-Bold mb-3 border-b-2 border-b-white text-2xl">
         Master Tools
       </h3>

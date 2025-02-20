@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        aboutMeBgDark: '#b8c2a7',
+        bgDarkGradient: '#b8c2a7',
+        bgClear: '#EDF0E9',
         bgButton: '#B8C2A7',
         borderColor: '#B68E76',
         textColor: '#125050',
