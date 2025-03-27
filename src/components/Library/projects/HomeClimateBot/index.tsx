@@ -1,5 +1,5 @@
 import React from "react";
-import { useTranslation, UseTranslation } from "react-i18next";
+import { useTranslation} from "react-i18next";
 import '../../../../i18n'
 
 const HomeClimateBot: React.FC = () => {
