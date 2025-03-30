@@ -13,7 +13,7 @@ const Home: React.FC = () => {
     return (
         <div>
         <Header/>
-        <main className="grid grid-cols-3 gap-2 mx-24 pb-7">
+        <main className="grid grid-cols-3 gap-2 mx-24 pb-7 cursor-default">
             <AboutMe/>
             <img src="/images/profile-image.jpg" className="rounded-lg h-[65vh] w-[fill] object-cover"></img>
             <MasterTools/>
