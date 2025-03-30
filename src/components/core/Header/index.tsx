@@ -18,7 +18,7 @@ const Header : React.FC = () => {
     
 
     return (
-        <div className="header w-[fill] font-roboto mx-24 sticky top-0 bg-white border-b-2 ">
+        <div className="header w-[fill] font-roboto mx-24 sticky top-0 bg-white">
             <div className="flex gap-7">
                 <h5 onClick={() => handleScroll("home")} className="cursor-pointer active:scale-y-90">{t('headerHome')}</h5>
                 <h5 onClick={() => handleScroll("projects")} className="cursor-pointer active:scale-y-90">{t('headerProjects')}</h5>
