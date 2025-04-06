@@ -7,7 +7,7 @@ const LanguageSwitcher : React.FC = () => {
     }
 
     return (
-        <div className='w-fit flex gap-1'>
+        <div className='flex  flex-col items-end lg:flex-row gap-1'>
             <button onClick={() => changeLanguage('es')} className="languageBtn">Español</button>
             <button onClick={() => {changeLanguage('en')}} className="languageBtn">English</button>
         </div>

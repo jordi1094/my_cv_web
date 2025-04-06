@@ -6,7 +6,7 @@ const HomeClimateBot: React.FC = () => {
     const { t } = useTranslation();
 
     return (
-        <div className="bg-bgDark rounded-lg font-roboto text-white py-4 px-7 flex flex-col">
+        <div className="bg-bgDark rounded-lg font-roboto text-white p-2 lg:py-4 lg:px-7 flex flex-col">
             <h3 className="font-Bold border-b-white border-b-2 mb-3 text-2xl">{t('homeClimateBot')}</h3>
             <p>{t('homeClimateBotDescription')}</p>
             <div className="flex flex-col h-full justify-end">

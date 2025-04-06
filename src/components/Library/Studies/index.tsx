@@ -6,7 +6,7 @@ const Studies: React.FC = () => {
   const { t } = useTranslation();
   
   return (
-    <div className=" bg-gradient-to-tl from-bgClear to-bgDarkGradient col-span-2 rounded-lg px-7 py-4 font-roboto">
+    <div className=" bg-gradient-to-tl from-bgClear to-bgDarkGradient col-span-2 rounded-lg p-2 lg:px-7 lg:py-4 font-roboto">
       <h3 className="mb-3 border-b-2 border-b-black text-2xl font-bold">
         {t("EstudiesTittle")}
       </h3>
