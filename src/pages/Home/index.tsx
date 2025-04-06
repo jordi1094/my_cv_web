@@ -15,7 +15,7 @@ const Home: React.FC = () => {
         <Header/>
         <main className="flex flex-col gap-2 mx-2 lg:grid grid-cols-3 lg:mx-24 pb-7 cursor-default">
             <AboutMe/>
-            <img src="/images/profile-image.jpg" className="rounded-lg h-[30vh] lg:h-[65vh] w-[fill] object-cover"></img>
+            <img src="/images/profile-image.jpg" className="rounded-lg h-[30vh] lg:h-[65vh] w-stretch object-cover"></img>
             <MasterTools/>
             <IrrigationAlert/>
             <HomeClimateBot/>

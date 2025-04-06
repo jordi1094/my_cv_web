@@ -11,17 +11,17 @@ const Studies: React.FC = () => {
         {t("EstudiesTittle")}
       </h3>
       <div className="my-2">
-        <h4 className="Font-bold text-xl"> Bootcamp Full Stack Developer</h4>
+        <h4 className="font-bold"> Bootcamp Full Stack Developer</h4>
         <p>- ISDI Coders 2024 - 230h </p>
       </div>
       <div className="my-2">
-        <h4 className="Font-bold text-xl">
+        <h4 className="font-bold">
           {t("AdvancedAdvertisingRetouchingCourse")}
         </h4>
         <p>- Institut d’Estudis Fotogràfics de Catalunya - </p>
       </div>
       <div className="my-2">
-        <h4 className="Font-bold text-xl">
+        <h4 className="font-bold">
           {t("SpecializationCourseInFashionPhotography")}
         </h4>
         <p>- Institut d’Estudis Fotogràfics de Catalunya - </p>
